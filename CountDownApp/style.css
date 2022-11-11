@@ -29,6 +29,8 @@ h1 {
 
 .hours-contain {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     animation-name:glow;
     animation-duration:1s;
     animation-iteration-count:infinite;
